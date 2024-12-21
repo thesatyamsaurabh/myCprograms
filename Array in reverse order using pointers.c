@@ -25,4 +25,5 @@ for(i=0;i<n;i++)
     printf("%d\t",*ptr2[i]);
 
 getch();
+//getch();
 }
